@@ -3,4 +3,4 @@ Budgety is application for calculation of Income and Expenses and to check the t
 
 # Images
 
-![](images/1.png)
+![](Images/1.png)
